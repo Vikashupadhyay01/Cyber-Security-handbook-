@@ -2,8 +2,7 @@
  <img width="350" height="350" src="images/awesome-cybersecurity-handbooks.webp">
 </p> -->
 
-# Awesome Cybersecurity Handbooks  (https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-
+# Awesome Cybersecurity Handbooks  
  
 
 A huge chunk of my personal notes since I started playing CTFs and working as a red teamer. These are living documents and I updated or add to them relatively often.
